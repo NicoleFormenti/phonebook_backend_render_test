@@ -1,0 +1,5 @@
+DELETE http://localhost:3001/api/persons/2
+
+###
+//making a get req to check if the delete req works
+GET http://localhost:3001/api/persons
